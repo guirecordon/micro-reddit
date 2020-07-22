@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/guirecordon/micro-reddit">
-    <img src="app/images/microverse-logo.webp" alt="Logo" width="100" height="100">
+    <img src="app/assets/images/microverse-logo.webp" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Linter</h3>
