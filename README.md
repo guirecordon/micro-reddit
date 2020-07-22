@@ -20,10 +20,6 @@
   </p>
 </p>
 
-<p align="center">
-  <img src="attachments/welcome.png">
-<p>
-
 
 * Ruby version 2.7.1
 
